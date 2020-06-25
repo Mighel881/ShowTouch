@@ -1,3 +1,4 @@
+ARCHS = arm64 arm64e
 TARGET = iphone:11.2:10.0
 FINALPACKAGE=1
 DEBUG=0
